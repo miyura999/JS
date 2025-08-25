@@ -1,2 +1,0 @@
-# JS
-trabajos de javascript  
